@@ -20,12 +20,7 @@ export default function Home({ ip_address }) {
   // Show answer button
   const handleShowAnswer = async (event) => {
     const questionNo = event.target.id.toString();
-    if (
-      (questionNo == 980) |
-      (questionNo == 981) |
-      (questionNo == 982) |
-      (questionNo == 983)
-    ) {
+    if (questionNo > 900) {
       setHintClick(questionNo);
       setNextClick('');
     } else {
