@@ -2,8 +2,8 @@
   {
     "number": 1,
     "id": 980,
-    "question": "A man buys 35 kg of sugar and sets a marked price in order to make a 20% profit. He sells 5 kg at this price, and 15 kg at a 10% discount. Accidentally, 3 kg of sugar is wasted. He sells the remaining sugar by raising the marked price by p percent so as to make an overall profit of 15%. Then p is nearest to?",
-    "answer": "25"
+    "question": "A rectangular tiled floor is composed of 70 square tiles. The rectangular floor is rearranged so that 2 tiles are removed from each column and 4 tiles are added to each row. After the change in layout, the floor will still have 70 tiles, and still be rectangular. How many columns are in the tile floor before the change in layout?",
+    "answer": "10"
   },
   {
     "number": 2,
@@ -12,10 +12,10 @@
   },
   {
     "number": 3,
-    "id": 981,
-    "question": "The sum of the ages of 4 members of a family 5 years ago was 94 years. Today, when the daughter has married off and replaced by a daughter-in-law the sum of their ages is 92. Assuming that there has been no other change in the family structure and all the people are alive, what is the different in the age of the daughter and the daughter-in-law?",
-    "answer": "22"
+    "id": 7,
+    "question": "Alina and Luce can do a piece of work in 36 days and 81 days respectively. Both together work for 5 days and then Alina leaves off. How many days will Luce take to finish the remaining work?"
   },
+
   {
     "number": 4,
     "id": 982,
@@ -29,8 +29,9 @@
   },
   {
     "number": 6,
-    "id": 7,
-    "question": "Alina and Luce can do a piece of work in 36 days and 81 days respectively. Both together work for 5 days and then Alina leaves off. How many days will Luce take to finish the remaining work?"
+    "id": 981,
+    "question": "The sum of the ages of 4 members of a family 5 years ago was 94 years. Today, when the daughter has married off and replaced by a daughter-in-law the sum of their ages is 92. Assuming that there has been no other change in the family structure and all the people are alive, what is the different in the age of the daughter and the daughter-in-law?",
+    "answer": "22"
   },
   {
     "number": 7,
