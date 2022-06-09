@@ -101,14 +101,32 @@ export default function Home({ ip_address }) {
 
                     <div className="row-span-2 flex">
                       <div className="grid grid-cols-7">
-                        <button
-                          className="w-30 m-1 p-2 hover:bg-blue-700 hover:text-white  col-span-2 ml-6"
-                          id={ques.id}
-                          key={ques.number}
-                          onClick={(e) => handleShowAnswer(e)}
-                        >
-                          Want to see how it is solved?
-                        </button>
+                        {(() => {
+                          if (ques.id != nextClick) {
+                            return (
+                              <button
+                                className="w-30 m-1 p-2 hover:bg-blue-700 hover:text-white  col-span-2 ml-6"
+                                id={ques.id}
+                                key={ques.number}
+                                onClick={(e) => handleShowAnswer(e)}
+                              >
+                                Want to see how it is solved?
+                              </button>
+                            );
+                          } else {
+                            return (
+                              <button
+                                className="w-30 m-1 p-2 hover:bg-blue-700 hover:text-white  col-span-2 ml-6"
+                                id={ques.id}
+                                key={ques.number}
+                                disabled={true}
+                                onClick={(e) => handleShowAnswer(e)}
+                              >
+                                Want to see how it is solved?
+                              </button>
+                            );
+                          }
+                        })()}
                         {(() => {
                           if (ques.id == nextClick) {
                             return (
