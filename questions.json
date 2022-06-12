@@ -7,15 +7,15 @@
   },
   {
     "number": 2,
-    "id": 5,
-    "question": "In Thanksgiving, Mr Larry Bowden decided to distribute some candies among his friends in a manner that he gives half of his total stock of candies and one extra to the first friend, and then the half of the remaining stock along with one extra to the second and continues giving away in this fashion. His total stock exhausted after he gave away to 4 friends. How many candies were there in his stock initially?"
+    "id": 3,
+    "question": "A gentleman decided to distribute some toffees among his children in a manner that he gives half of his total stock of toffees and one extra to the first child, and then the half of the remaining stock along with one extra to the second and continues giving away in this fashion. His total stock exhausted after he gave away to 4 children. How many toffees were there in his stock initially?"
   },
   {
     "number": 3,
-    "id": 7,
-    "question": "Alina and Luce can do a piece of work in 36 days and 81 days respectively. Both together work for 5 days and then Alina leaves off. How many days will Luce take to finish the remaining work?"
+    "id": 917,
+    "question": "When 242 is divided by a certain divisor the remainder obtained is 8. When 698 is divided by the same divisor the remainder obtained is 9. However, when the sum of the two numbers 242 and 698 is divided by the divisor, the remainder obtained is 4. What is the value of the divisor",
+    "answer": "10"
   },
-
   {
     "number": 4,
     "id": 982,
@@ -24,7 +24,7 @@
   },
   {
     "number": 5,
-    "id": 3,
+    "id": 4,
     "question": "Vincent and Rosetta finally started their long planned farming business. Vincent invested $4332 for 18 months and Rosetta invested $3000 for 13 months. If both of them earned a profit of $2500 after 18 months then what is the share (approx.) of Vincent in that profit?"
   },
   {
@@ -38,5 +38,10 @@
     "id": 984,
     "question": "A stall sells popcorn and chips in packets of three sizes: large, super, and jumbo. The numbers of large, super, and jumbo packets in its stock are in the ratio 7 : 17 : 16 for popcorn and 6 : 15 : 14 for chips. If the total number of popcorn packets in its stock is the same as that of chips packets, then the numbers of jumbo popcorn packets and jumbo chips packets are in the ratio?",
     "answer": "1:1"
+  },
+  {
+    "number": 8,
+    "id": 5,
+    "question": "A and B can do a piece of work in 36 days and 81 days respectively. Both together work for 5 days and then A leaves off. How many days will B take to finish the remaining work?"
   }
 ]
