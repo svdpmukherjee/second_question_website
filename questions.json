@@ -19,28 +19,34 @@
   {
     "number": 4,
     "id": 982,
+    "question": "The word DAF is coded as 503 in a specific code language. In the same language, HIG will be coded as ___?",
+    "answer": "687"
+  },
+  {
+    "number": 5,
+    "id": 982,
     "question": "On a rectangular metal sheet of area 135 sq in, a circle is painted such that the circle touches two opposite sides. If the area of the sheet left unpainted is two-thirds of the painted area then the perimeter of the rectangle in inches is?",
     "answer": "no answer!"
   },
   {
-    "number": 5,
+    "number": 6,
     "id": 4,
     "question": "Vincent and Rosetta finally started their long planned farming business. Vincent invested $4332 for 18 months and Rosetta invested $3000 for 13 months. If both of them earned a profit of $2500 after 18 months then what is the share (approx.) of Vincent in that profit?"
   },
   {
-    "number": 6,
+    "number": 7,
     "id": 981,
     "question": "The sum of the ages of 4 members of a family 5 years ago was 94 years. Today, when the daughter has married off and replaced by a daughter-in-law the sum of their ages is 92. Assuming that there has been no other change in the family structure and all the people are alive, what is the different in the age of the daughter and the daughter-in-law?",
     "answer": "22"
   },
   {
-    "number": 7,
+    "number": 8,
     "id": 984,
     "question": "A stall sells popcorn and chips in packets of three sizes: large, super, and jumbo. The numbers of large, super, and jumbo packets in its stock are in the ratio 7 : 17 : 16 for popcorn and 6 : 15 : 14 for chips. If the total number of popcorn packets in its stock is the same as that of chips packets, then the numbers of jumbo popcorn packets and jumbo chips packets are in the ratio?",
     "answer": "1:1"
   },
   {
-    "number": 8,
+    "number": 9,
     "id": 5,
     "question": "A and B can do a piece of work in 36 days and 81 days respectively. Both together work for 5 days and then A leaves off. How many days will B take to finish the remaining work?"
   }
