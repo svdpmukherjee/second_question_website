@@ -8,7 +8,7 @@
   {
     "number": 2,
     "id": 3,
-    "question": "In Thanksgiving, Mr Larry Bowden decided to distribute some candies among his friends in a manner that he gives half of his total stock of candies and one extra to the first friend, and then the half of the remaining stock along with one extra to the second and continues giving away in this fashion. His total stock exhausted after he gave away to 5 friends. How many candies were there in his stock initially?"
+    "question": "A gentleman decided to distribute some candies among his children in a manner that he gives half of his total stock of candies and one extra to the first child, and then the half of the remaining stock along with one extra to the second and continues giving away in this fashion. His total stock exhausted after he gave away to 4 children. How many candies were there in his stock initially?"
   },
   {
     "number": 3,
@@ -30,14 +30,14 @@
   },
   {
     "number": 6,
-    "id": 4,
-    "question": "Vincent and Rosetta finally started their long planned farming business. Vincent invested $4332 for 18 months and Rosetta invested $3000 for 13 months. If both of them earned a profit of $2500 after 18 months then what is the share (approx.) of Vincent in that profit?"
-  },
-  {
-    "number": 7,
     "id": 981,
     "question": "The sum of the ages of 4 members of a family 5 years ago was 94 years. Today, when the daughter has married off and replaced by a daughter-in-law the sum of their ages is 92. Assuming that there has been no other change in the family structure and all the people are alive, what is the different in the age of the daughter and the daughter-in-law?",
     "answer": "22"
+  },
+  {
+    "number": 7,
+    "id": 4,
+    "question": "Vincent and Rosetta finally started their long planned farming business. Vincent invested $4332 for 18 months and Rosetta invested $3000 for 13 months. If both of them earned a profit of $2500 after 18 months then what is the share (approx.) of Vincent in that profit?"
   },
   {
     "number": 8,
