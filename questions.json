@@ -7,7 +7,7 @@
   },
   {
     "number": 2,
-    "id": 3,
+    "id": 4,
     "question": "A gentleman decided to distribute some candies among his children in a manner that he gives half of his total stock of candies and one extra to the first child, and then the half of the remaining stock along with one extra to the second and continues giving away in this fashion. His total stock exhausted after he gave away to 4 children. How many candies were there in his stock initially?"
   },
   {
@@ -18,9 +18,8 @@
   },
   {
     "number": 4,
-    "id": 982,
-    "question": "In a secret messaging communication, the word DAF is coded as 530 in a specific code language. In the same language, HIG will be coded as ___?",
-    "answer": "678"
+    "id": 3,
+    "question": "In a secret messaging communication, the word DAF is coded as 530 in a specific code language. In the same language, HIG will be coded as ___?"
   },
   {
     "number": 5,
@@ -36,7 +35,7 @@
   },
   {
     "number": 7,
-    "id": 4,
+    "id": 5,
     "question": "Vincent and Rosetta finally started their long planned farming business. Vincent invested $4332 for 18 months and Rosetta invested $3000 for 13 months. If both of them earned a profit of $2500 after 18 months then what is the share (approx.) of Vincent in that profit?"
   },
   {
@@ -47,7 +46,7 @@
   },
   {
     "number": 9,
-    "id": 5,
+    "id": 1,
     "question": "A and B can do a piece of work in 36 days and 81 days respectively. Both together work for 5 days and then A leaves off. How many days will B take to finish the remaining work?"
   }
 ]
