@@ -32,7 +32,14 @@ export default function Home(props) {
       method: 'DELETE',
       body: JSON.stringify(passValue),
     });
-  }, [ip_address_1]);
+  }, []);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setDisabled(false);
+    }, 6000);
+    return () => clearTimeout(timer);
+  }, [disabled]);
 
   // Show answer button
   const handleShowAnswer = async (event) => {
@@ -138,7 +145,7 @@ export default function Home(props) {
                           } else {
                             return (
                               <button
-                                className="w-30 m-1 p-2 hover:bg-blue-700 hover:text-white  col-span-2 ml-6"
+                                className="w-30 m-1 p-2   col-span-2 ml-6"
                                 id={ques.id}
                                 key={ques.number}
                                 disabled={disabled}
