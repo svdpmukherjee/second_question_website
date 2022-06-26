@@ -12,8 +12,8 @@ export default function Home(props) {
   const { ip_address_1, ip_address_2 } = props;
   const [nextClick, setNextClick] = useState('');
   const [hintClick, setHintClick] = useState('');
-
   const [buttonText, setButtonText] = useState('');
+  const [disabled, setDisabled] = useState(false);
   const router = useRouter();
   let deviceType = '';
 
@@ -37,6 +37,7 @@ export default function Home(props) {
   // Show answer button
   const handleShowAnswer = async (event) => {
     const questionNo = event.target.id.toString();
+    setDisabled(true);
     if (questionNo > 900) {
       setHintClick(questionNo);
       setNextClick('');
@@ -128,6 +129,7 @@ export default function Home(props) {
                                 className="w-30 m-1 p-2 hover:bg-blue-700 hover:text-white  col-span-2 ml-6"
                                 id={ques.id}
                                 key={ques.number}
+                                disabled={disabled}
                                 onClick={(e) => handleShowAnswer(e)}
                               >
                                 Want to see how it is solved?
@@ -139,7 +141,7 @@ export default function Home(props) {
                                 className="w-30 m-1 p-2 hover:bg-blue-700 hover:text-white  col-span-2 ml-6"
                                 id={ques.id}
                                 key={ques.number}
-                                disabled={true}
+                                disabled={disabled}
                                 onClick={(e) => handleShowAnswer(e)}
                               >
                                 Want to see how it is solved?
